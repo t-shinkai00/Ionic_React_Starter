@@ -1,0 +1,3 @@
+[submodule "tutorial-photo-gallery-react"]
+	path = tutorial-photo-gallery-react
+	url = https://github.com/ionic-team/tutorial-photo-gallery-react.git
